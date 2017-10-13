@@ -1,0 +1,39 @@
+body{
+	padding-top:100px;
+}
+
+.post img{
+	height: 300px!important;
+	width: 100%!important;
+}
+
+/*Post page start */
+.postpage{
+	
+}
+.postpage .image{
+	height: 400px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.postpage .text{
+	font-size: 18px;
+}
+.postpage .author{
+	margin-top: 40px;
+	border-top:1px solid #ccc;
+	padding:20px 0;
+	background: #ddd;
+}
+/*Post Page end */
+
+
+/*profile page start */
+.profiled{
+	text-align: center;
+	padding-top: 40px;
+}
+.profileposts{
+	padding-top: 40px;
+}
+/*profile page end */
